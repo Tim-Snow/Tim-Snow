@@ -7,7 +7,7 @@
 - 📫 Email me [here](mailto:me@timsnow.dev)
 - ⚡ Fun fact: I have no idea what to put here now I've found this secret
 
-![Tim](tim.gif)
+![](tim.gif)
 
 <!--
 **Tim-Snow/Tim-Snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
